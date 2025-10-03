@@ -14,7 +14,8 @@
   "scripts": {
     "prepare": "tsc",
     "test": "mocha test",
-    "test:debug": "mocha test"
+    "test:debug": "mocha test",
+    "benchmark": "node benchmark.js"
   },
   "repository": {
     "type": "git",
